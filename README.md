@@ -1,25 +1,39 @@
 # 📊 Excel Fundamentals Project
 
 ## 🌟 Overview
-This repository showcases my proficiency in Microsoft Excel fundamentals, demonstrating various essential skills and techniques crucial for data analysis and business operations.
+This repository demonstrates my proficiency in Microsoft Excel, showcasing a wide range of essential skills and techniques crucial for data analysis and business operations.
 
 ## 💡 Skills Demonstrated
-- 📝 Data Entry and Formatting
-- 🧮 Basic Formulas and Functions
-- 🔗 Cell References (Relative and Absolute)
-- 🔍 Sorting and Filtering Data
-- 📈 Creating and Customizing Charts
-- 🔄 Pivot Tables and Pivot Charts
-- 🧹 Basic Data Cleaning Techniques
-- 🎨 Conditional Formatting
-- 🔎 VLOOKUP Functions
-- 🚀 Advanced Excel functions (INDEX-MATCH, SUMIFS, etc.)
 
-## 🎯 Future Learning Goals
-- 💪 Advanced Excel functions (further exploration)
+### File 1: Basic Excel Functions
+- 🔍 Selection, Freeze Panes & Navigation
+- 🎨 Formatting
+- 🧮 Basic Functions (SUM, AVERAGE, COUNT)
+- 🔎 Filter Function
+- 🔗 CONCAT Function
+- 📅 Date Functions
+- 📝 Text Functions
+- 📈 Chart Creation and Customization
+
+### File 2: Advanced Excel Techniques
+- ➗ Operators
+- 🔄 Pivoting
+- 📛 Named Ranges
+- ✅ Data Validation
+- 🔧 Data Manipulation
+- 📊 Working with Tables
+- 💪 Advanced Excel functions (INDEX-MATCH, SUMIFS, etc.)
+
+## 📁 Project Files
+1. File 1: Demonstration of basic Excel functions and data visualization
+2. File 2: Showcase of advanced Excel techniques and data management
+
+## 🚀 Future Learning Goals
 - 🔄 Power Query for data transformation
 - 📊 DAX formulas in Power Pivot
 - 🤖 Excel VBA for complex automation
+
+This project illustrates my ability to effectively organize, analyze, and visualize data using a wide array of Excel features. I'm continuously expanding my skills to tackle more complex data challenges.
 
 Feel free to explore the projects and reach out for any collaborations or discussions on Excel-based data analysis! 
 

@@ -24,10 +24,6 @@ This repository demonstrates my proficiency in Microsoft Excel, showcasing a wid
 - 📊 Working with Tables
 - 💪 Advanced Excel functions (INDEX-MATCH, SUMIFS, etc.)
 
-## 📁 Project Files
-1. File 1: Demonstration of basic Excel functions and data visualization
-2. File 2: Showcase of advanced Excel techniques and data management
-
 ## 🚀 Future Learning Goals
 - 🔄 Power Query for data transformation
 - 📊 DAX formulas in Power Pivot
